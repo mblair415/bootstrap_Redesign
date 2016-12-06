@@ -1,0 +1,21 @@
+header {
+  background-color: black;
+  color: white;
+}
+
+* {
+  border: dashed ipx black;
+}
+
+.site-logo {
+  max-width: 200px !important;
+  height: auto;
+  float: right;
+}
+
+.icon-bar {
+  display: inline
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
