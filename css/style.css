@@ -4,18 +4,18 @@ header {
 }
 
 * {
-  border: dashed ipx black;
+  border: dashed 1px black;
 }
 
 .site-logo {
   max-width: 200px !important;
   height: auto;
   float: right;
+  position: absolute;;
+  display: inline-block;
 }
 
-.icon-bar {
-  display: inline
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+.container-fluid {
+  display: inline-block;;
+  float: right;
 }
